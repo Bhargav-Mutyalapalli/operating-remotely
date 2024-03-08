@@ -1,4 +1,4 @@
-#include "remotetest.h"
+#include "signaltest.h"
 int main()
 {
 	printf("Hello world is invoked\n");
